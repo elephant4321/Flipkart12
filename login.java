@@ -6,7 +6,7 @@ public class
 	void main()
 	{
 		print("welcome")
-		
+		print("welcome to devops")
 	}	
 
 }
